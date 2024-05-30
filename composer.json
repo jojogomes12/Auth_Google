@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/auth": "^1.39",
+        "google/apiclient": "^2.16",
+        "patric/dot-env": "^1.0"
+    }
+}
